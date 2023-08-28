@@ -11,7 +11,7 @@
   <br>
   </div>
   
-  ![alt text](https://github.com/ss-shrishi2000/Exploratory_Data_Analysis_On_PUBG_Data/blob/main/pubg-pic-1.jpg)
+  ![alt text](https://github.com/Indominous1/PUBG-Placement-Prediction-Data/blob/main/pubg-pic-1.jpg)
 
 # Base Machine Learning Models
 
@@ -29,4 +29,4 @@ After deskewing these features, we finally had our data properly formatted to ru
 
 Training on the whole dataset, we were able to get a public score of 0.0445. Although this model did not perform very well, we still wanted to see what features the model valued when making predictions. From the below chart, we can see that boosts and heals were the most important features. Three of the top six most important features were also created by us in the feature engineering step, reinforcing that our feature engineering was providing value.
   
-  ![alt_text](https://github.com/ss-shrishi2000/PUBG-Finish-Placement-Prediction-Data/blob/main/Correlation.png)
+  ![alt_text](https://github.com/Indominous1/PUBG-Placement-Prediction-Data/blob/main/Correlation.png)
